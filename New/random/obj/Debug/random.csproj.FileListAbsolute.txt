@@ -1,0 +1,12 @@
+C:\Users\MONSTERMC\Downloads\Compressed\New folder\random\obj\Debug\random.csproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Downloads\Compressed\New folder\random\obj\Debug\random.csproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\Compressed\New folder\random\bin\Debug\random.exe
+C:\Users\MONSTERMC\Downloads\Compressed\New folder\random\bin\Debug\random.pdb
+C:\Users\MONSTERMC\Downloads\Compressed\New folder\random\bin\Debug\Guna.UI2.dll
+C:\Users\MONSTERMC\Downloads\Compressed\New folder\random\bin\Debug\Telegram.Bot.dll
+C:\Users\MONSTERMC\Downloads\Compressed\New folder\random\obj\Debug\random.csproj.CopyComplete
+C:\Users\MONSTERMC\Downloads\Compressed\New folder\random\obj\Debug\random.exe
+C:\Users\MONSTERMC\Downloads\Compressed\New folder\random\obj\Debug\random.pdb
+C:\Users\MONSTERMC\Downloads\Compressed\New folder\random\obj\Debug\numer.Form2.resources
+C:\Users\MONSTERMC\Downloads\Compressed\New folder\random\obj\Debug\random.csproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\Compressed\New folder\random\obj\Debug\numer.BP.resources

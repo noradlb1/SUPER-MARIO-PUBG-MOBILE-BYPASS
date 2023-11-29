@@ -1,0 +1,131 @@
+C:\Users\nightmood\source\repos\numer\numer\bin\Debug\numer.exe
+C:\Users\nightmood\source\repos\numer\numer\bin\Debug\numer.exe.config
+C:\Users\nightmood\source\repos\numer\numer\bin\Debug\numer.pdb
+C:\Users\nightmood\source\repos\numer\numer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nightmood\source\repos\numer\numer\obj\Debug\numer.csproj.AssemblyReference.cache
+C:\Users\nightmood\source\repos\numer\numer\obj\Debug\numer.csproj.SuggestedBindingRedirects.cache
+C:\Users\nightmood\source\repos\numer\numer\obj\Debug\numer.Form1.resources
+C:\Users\nightmood\source\repos\numer\numer\obj\Debug\numer.Form2.resources
+C:\Users\nightmood\source\repos\numer\numer\obj\Debug\numer.Properties.Resources.resources
+C:\Users\nightmood\source\repos\numer\numer\obj\Debug\numer.csproj.GenerateResource.cache
+C:\Users\nightmood\source\repos\numer\numer\obj\Debug\numer.csproj.CoreCompileInputs.cache
+C:\Users\nightmood\source\repos\numer\numer\obj\Debug\numer.csproj.Fody.CopyLocal.cache
+C:\Users\nightmood\source\repos\numer\numer\obj\Debug\numer.csproj.CopyComplete
+C:\Users\nightmood\source\repos\numer\numer\obj\Debug\numer.exe
+C:\Users\nightmood\source\repos\numer\numer\obj\Debug\numer.pdb
+D:\New folder\numer\numer\bin\Debug\DP.exe.config
+D:\New folder\numer\numer\bin\Debug\DP.exe
+D:\New folder\numer\numer\bin\Debug\DP.pdb
+D:\New folder\numer\numer\bin\Debug\ar\DP.resources.dll
+D:\New folder\numer\numer\bin\Debug\Discord.Net.Commands.xml
+D:\New folder\numer\numer\bin\Debug\Discord.Net.Core.xml
+D:\New folder\numer\numer\bin\Debug\Discord.Net.Interactions.xml
+D:\New folder\numer\numer\bin\Debug\Discord.Net.Rest.xml
+D:\New folder\numer\numer\bin\Debug\Discord.Net.Webhook.xml
+D:\New folder\numer\numer\bin\Debug\Discord.Net.WebSocket.xml
+D:\New folder\numer\numer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\New folder\numer\numer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\New folder\numer\numer\bin\Debug\Newtonsoft.Json.xml
+D:\New folder\numer\numer\bin\Debug\System.Buffers.xml
+D:\New folder\numer\numer\bin\Debug\System.Collections.Immutable.xml
+D:\New folder\numer\numer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\New folder\numer\numer\bin\Debug\System.Interactive.Async.xml
+D:\New folder\numer\numer\bin\Debug\System.Linq.Async.xml
+D:\New folder\numer\numer\bin\Debug\System.Memory.xml
+D:\New folder\numer\numer\bin\Debug\System.Numerics.Vectors.xml
+D:\New folder\numer\numer\bin\Debug\System.Reactive.xml
+D:\New folder\numer\numer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\New folder\numer\numer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\New folder\numer\numer\bin\Debug\System.ValueTuple.xml
+D:\New folder\numer\numer\obj\Debug\numer.csproj.AssemblyReference.cache
+D:\New folder\numer\numer\obj\Debug\numer.csproj.SuggestedBindingRedirects.cache
+D:\New folder\numer\numer\obj\Debug\numer.BP.resources
+D:\New folder\numer\numer\obj\Debug\numer.Form2.resources
+D:\New folder\numer\numer\obj\Debug\numer.Main.resources
+D:\New folder\numer\numer\obj\Debug\numer.Properties.Resources.resources
+D:\New folder\numer\numer\obj\Debug\numer.BP.ar.resources
+D:\New folder\numer\numer\obj\Debug\numer.csproj.GenerateResource.cache
+D:\New folder\numer\numer\obj\Debug\numer.csproj.CoreCompileInputs.cache
+D:\New folder\numer\numer\obj\Debug\numer.csproj.Fody.CopyLocal.cache
+D:\New folder\numer\numer\obj\Debug\ar\DP.resources.dll
+D:\New folder\numer\numer\obj\Debug\numer.csproj.CopyComplete
+D:\New folder\numer\numer\obj\Debug\DP.exe
+D:\New folder\numer\numer\obj\Debug\DP.pdb
+D:\New folder\numer\numer\numer\bin\Debug\DP.exe.config
+D:\New folder\numer\numer\numer\bin\Debug\DP.exe
+D:\New folder\numer\numer\numer\bin\Debug\DP.pdb
+D:\New folder\numer\numer\numer\bin\Debug\ar\DP.resources.dll
+D:\New folder\numer\numer\numer\bin\Debug\Discord.Net.Commands.xml
+D:\New folder\numer\numer\numer\bin\Debug\Discord.Net.Core.xml
+D:\New folder\numer\numer\numer\bin\Debug\Discord.Net.Interactions.xml
+D:\New folder\numer\numer\numer\bin\Debug\Discord.Net.Rest.xml
+D:\New folder\numer\numer\numer\bin\Debug\Discord.Net.Webhook.xml
+D:\New folder\numer\numer\numer\bin\Debug\Discord.Net.WebSocket.xml
+D:\New folder\numer\numer\numer\bin\Debug\DiscordRPC.xml
+D:\New folder\numer\numer\numer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\New folder\numer\numer\numer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\New folder\numer\numer\numer\bin\Debug\Newtonsoft.Json.xml
+D:\New folder\numer\numer\numer\bin\Debug\System.Buffers.xml
+D:\New folder\numer\numer\numer\bin\Debug\System.Collections.Immutable.xml
+D:\New folder\numer\numer\numer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\New folder\numer\numer\numer\bin\Debug\System.Interactive.Async.xml
+D:\New folder\numer\numer\numer\bin\Debug\System.Linq.Async.xml
+D:\New folder\numer\numer\numer\bin\Debug\System.Memory.xml
+D:\New folder\numer\numer\numer\bin\Debug\System.Numerics.Vectors.xml
+D:\New folder\numer\numer\numer\bin\Debug\System.Reactive.xml
+D:\New folder\numer\numer\numer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\New folder\numer\numer\numer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\New folder\numer\numer\numer\bin\Debug\System.ValueTuple.xml
+D:\New folder\numer\numer\numer\obj\Debug\numer.csproj.AssemblyReference.cache
+D:\New folder\numer\numer\numer\obj\Debug\numer.csproj.SuggestedBindingRedirects.cache
+D:\New folder\numer\numer\numer\obj\Debug\numer.BP.resources
+D:\New folder\numer\numer\numer\obj\Debug\numer.Form2.resources
+D:\New folder\numer\numer\numer\obj\Debug\numer.Form3.resources
+D:\New folder\numer\numer\numer\obj\Debug\numer.Form4.resources
+D:\New folder\numer\numer\numer\obj\Debug\numer.Main.resources
+D:\New folder\numer\numer\numer\obj\Debug\numer.Properties.Resources.resources
+D:\New folder\numer\numer\numer\obj\Debug\numer.BP.ar.resources
+D:\New folder\numer\numer\numer\obj\Debug\numer.csproj.GenerateResource.cache
+D:\New folder\numer\numer\numer\obj\Debug\numer.csproj.CoreCompileInputs.cache
+D:\New folder\numer\numer\numer\obj\Debug\numer.csproj.Fody.CopyLocal.cache
+D:\New folder\numer\numer\numer\obj\Debug\ar\DP.resources.dll
+D:\New folder\numer\numer\numer\obj\Debug\numer.csproj.CopyComplete
+D:\New folder\numer\numer\numer\obj\Debug\DP.exe
+D:\New folder\numer\numer\numer\obj\Debug\DP.pdb
+C:\Users\omar\Desktop\numer\numer\numer\bin\Debug\random.exe.config
+C:\Users\omar\Desktop\numer\numer\numer\bin\Debug\random.exe
+C:\Users\omar\Desktop\numer\numer\numer\bin\Debug\random.pdb
+C:\Users\omar\Desktop\numer\numer\numer\bin\Debug\ar\random.resources.dll
+C:\Users\omar\Desktop\numer\numer\numer\bin\Debug\Discord.Net.Commands.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Debug\Discord.Net.Core.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Debug\Discord.Net.Interactions.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Debug\Discord.Net.Rest.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Debug\DiscordRPC.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Debug\System.Buffers.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Debug\System.Collections.Immutable.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Debug\System.Interactive.Async.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Debug\System.Linq.Async.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Debug\System.Memory.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Debug\System.Reactive.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Debug\System.ValueTuple.xml
+C:\Users\omar\Desktop\numer\numer\numer\obj\Debug\numer.csproj.AssemblyReference.cache
+C:\Users\omar\Desktop\numer\numer\numer\obj\Debug\numer.BP.resources
+C:\Users\omar\Desktop\numer\numer\numer\obj\Debug\numer.Form2.resources
+C:\Users\omar\Desktop\numer\numer\numer\obj\Debug\numer.Properties.Resources.resources
+C:\Users\omar\Desktop\numer\numer\numer\obj\Debug\numer.BP.ar.resources
+C:\Users\omar\Desktop\numer\numer\numer\obj\Debug\numer.csproj.GenerateResource.cache
+C:\Users\omar\Desktop\numer\numer\numer\obj\Debug\numer.csproj.CoreCompileInputs.cache
+C:\Users\omar\Desktop\numer\numer\numer\obj\Debug\numer.csproj.Fody.CopyLocal.cache
+C:\Users\omar\Desktop\numer\numer\numer\obj\Debug\ar\random.resources.dll
+C:\Users\omar\Desktop\numer\numer\numer\obj\Debug\numer.csproj.CopyComplete
+C:\Users\omar\Desktop\numer\numer\numer\obj\Debug\random.exe
+C:\Users\omar\Desktop\numer\numer\numer\obj\Debug\random.pdb

@@ -1,0 +1,153 @@
+C:\Users\nightmood\source\repos\numer\numer\bin\Release\numer.exe.config
+C:\Users\nightmood\source\repos\numer\numer\bin\Release\numer.exe
+C:\Users\nightmood\source\repos\numer\numer\bin\Release\numer.pdb
+C:\Users\nightmood\source\repos\numer\numer\bin\Release\ar\numer.resources.dll
+C:\Users\nightmood\source\repos\numer\numer\bin\Release\Discord.Net.Commands.xml
+C:\Users\nightmood\source\repos\numer\numer\bin\Release\Discord.Net.Core.xml
+C:\Users\nightmood\source\repos\numer\numer\bin\Release\Discord.Net.Interactions.xml
+C:\Users\nightmood\source\repos\numer\numer\bin\Release\Discord.Net.Rest.xml
+C:\Users\nightmood\source\repos\numer\numer\bin\Release\Discord.Net.Webhook.xml
+C:\Users\nightmood\source\repos\numer\numer\bin\Release\Discord.Net.WebSocket.xml
+C:\Users\nightmood\source\repos\numer\numer\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nightmood\source\repos\numer\numer\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\nightmood\source\repos\numer\numer\bin\Release\Newtonsoft.Json.xml
+C:\Users\nightmood\source\repos\numer\numer\bin\Release\System.Buffers.xml
+C:\Users\nightmood\source\repos\numer\numer\bin\Release\System.Collections.Immutable.xml
+C:\Users\nightmood\source\repos\numer\numer\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nightmood\source\repos\numer\numer\bin\Release\System.Interactive.Async.xml
+C:\Users\nightmood\source\repos\numer\numer\bin\Release\System.Linq.Async.xml
+C:\Users\nightmood\source\repos\numer\numer\bin\Release\System.Memory.xml
+C:\Users\nightmood\source\repos\numer\numer\bin\Release\System.Numerics.Vectors.xml
+C:\Users\nightmood\source\repos\numer\numer\bin\Release\System.Reactive.xml
+C:\Users\nightmood\source\repos\numer\numer\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nightmood\source\repos\numer\numer\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\nightmood\source\repos\numer\numer\bin\Release\System.ValueTuple.xml
+C:\Users\nightmood\source\repos\numer\numer\obj\Release\numer.csproj.AssemblyReference.cache
+C:\Users\nightmood\source\repos\numer\numer\obj\Release\numer.csproj.SuggestedBindingRedirects.cache
+C:\Users\nightmood\source\repos\numer\numer\obj\Release\numer.Form1.resources
+C:\Users\nightmood\source\repos\numer\numer\obj\Release\numer.Form2.resources
+C:\Users\nightmood\source\repos\numer\numer\obj\Release\numer.Main.resources
+C:\Users\nightmood\source\repos\numer\numer\obj\Release\numer.Properties.Resources.resources
+C:\Users\nightmood\source\repos\numer\numer\obj\Release\numer.Form1.ar.resources
+C:\Users\nightmood\source\repos\numer\numer\obj\Release\numer.csproj.GenerateResource.cache
+C:\Users\nightmood\source\repos\numer\numer\obj\Release\numer.csproj.CoreCompileInputs.cache
+C:\Users\nightmood\source\repos\numer\numer\obj\Release\numer.csproj.Fody.CopyLocal.cache
+C:\Users\nightmood\source\repos\numer\numer\obj\Release\ar\numer.resources.dll
+C:\Users\nightmood\source\repos\numer\numer\obj\Release\numer.csproj.CopyComplete
+C:\Users\nightmood\source\repos\numer\numer\obj\Release\numer.exe
+C:\Users\nightmood\source\repos\numer\numer\obj\Release\numer.pdb
+D:\New folder\numer\numer\bin\Release\Discord.Net.Commands.xml
+D:\New folder\numer\numer\bin\Release\Discord.Net.Core.xml
+D:\New folder\numer\numer\bin\Release\Discord.Net.Interactions.xml
+D:\New folder\numer\numer\bin\Release\Discord.Net.Rest.xml
+D:\New folder\numer\numer\bin\Release\Discord.Net.Webhook.xml
+D:\New folder\numer\numer\bin\Release\Discord.Net.WebSocket.xml
+D:\New folder\numer\numer\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\New folder\numer\numer\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\New folder\numer\numer\bin\Release\Newtonsoft.Json.xml
+D:\New folder\numer\numer\bin\Release\System.Buffers.xml
+D:\New folder\numer\numer\bin\Release\System.Collections.Immutable.xml
+D:\New folder\numer\numer\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\New folder\numer\numer\bin\Release\System.Interactive.Async.xml
+D:\New folder\numer\numer\bin\Release\System.Linq.Async.xml
+D:\New folder\numer\numer\bin\Release\System.Memory.xml
+D:\New folder\numer\numer\bin\Release\System.Numerics.Vectors.xml
+D:\New folder\numer\numer\bin\Release\System.Reactive.xml
+D:\New folder\numer\numer\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\New folder\numer\numer\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\New folder\numer\numer\bin\Release\System.ValueTuple.xml
+D:\New folder\numer\numer\obj\Release\numer.csproj.AssemblyReference.cache
+D:\New folder\numer\numer\obj\Release\numer.csproj.SuggestedBindingRedirects.cache
+D:\New folder\numer\numer\obj\Release\numer.Form2.resources
+D:\New folder\numer\numer\obj\Release\numer.Main.resources
+D:\New folder\numer\numer\obj\Release\numer.Properties.Resources.resources
+D:\New folder\numer\numer\obj\Release\numer.csproj.GenerateResource.cache
+D:\New folder\numer\numer\obj\Release\numer.csproj.CoreCompileInputs.cache
+D:\New folder\numer\numer\obj\Release\numer.csproj.Fody.CopyLocal.cache
+D:\New folder\numer\numer\obj\Release\numer.csproj.CopyComplete
+D:\New folder\numer\numer\obj\Release\numer.BP.resources
+D:\New folder\numer\numer\obj\Release\numer.BP.ar.resources
+D:\New folder\numer\numer\bin\Release\DP.exe.config
+D:\New folder\numer\numer\bin\Release\DP.exe
+D:\New folder\numer\numer\bin\Release\DP.pdb
+D:\New folder\numer\numer\bin\Release\ar\DP.resources.dll
+D:\New folder\numer\numer\obj\Release\ar\DP.resources.dll
+D:\New folder\numer\numer\obj\Release\DP.exe
+D:\New folder\numer\numer\obj\Release\DP.pdb
+D:\New folder\numer\numer\obj\Release\numer.Form3.resources
+D:\New folder\numer\numer\bin\Release\DiscordRPC.xml
+D:\New folder\numer\numer\obj\Release\numer.Form4.resources
+D:\New folder\numer\numer\numer\bin\Release\Discord.Net.Commands.xml
+D:\New folder\numer\numer\numer\bin\Release\Discord.Net.Core.xml
+D:\New folder\numer\numer\numer\bin\Release\Discord.Net.Interactions.xml
+D:\New folder\numer\numer\numer\bin\Release\Discord.Net.Rest.xml
+D:\New folder\numer\numer\numer\bin\Release\Discord.Net.Webhook.xml
+D:\New folder\numer\numer\numer\bin\Release\Discord.Net.WebSocket.xml
+D:\New folder\numer\numer\numer\bin\Release\DiscordRPC.xml
+D:\New folder\numer\numer\numer\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\New folder\numer\numer\numer\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\New folder\numer\numer\numer\bin\Release\Newtonsoft.Json.xml
+D:\New folder\numer\numer\numer\bin\Release\System.Buffers.xml
+D:\New folder\numer\numer\numer\bin\Release\System.Collections.Immutable.xml
+D:\New folder\numer\numer\numer\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\New folder\numer\numer\numer\bin\Release\System.Interactive.Async.xml
+D:\New folder\numer\numer\numer\bin\Release\System.Linq.Async.xml
+D:\New folder\numer\numer\numer\bin\Release\System.Memory.xml
+D:\New folder\numer\numer\numer\bin\Release\System.Numerics.Vectors.xml
+D:\New folder\numer\numer\numer\bin\Release\System.Reactive.xml
+D:\New folder\numer\numer\numer\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\New folder\numer\numer\numer\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\New folder\numer\numer\numer\bin\Release\System.ValueTuple.xml
+D:\New folder\numer\numer\numer\obj\Release\numer.csproj.AssemblyReference.cache
+D:\New folder\numer\numer\numer\obj\Release\numer.BP.resources
+D:\New folder\numer\numer\numer\obj\Release\numer.Form2.resources
+D:\New folder\numer\numer\numer\obj\Release\numer.Properties.Resources.resources
+D:\New folder\numer\numer\numer\obj\Release\numer.BP.ar.resources
+D:\New folder\numer\numer\numer\obj\Release\numer.csproj.GenerateResource.cache
+D:\New folder\numer\numer\numer\obj\Release\numer.csproj.CoreCompileInputs.cache
+D:\New folder\numer\numer\numer\obj\Release\numer.csproj.Fody.CopyLocal.cache
+D:\New folder\numer\numer\numer\obj\Release\numer.csproj.CopyComplete
+D:\New folder\numer\numer\numer\bin\Release\random.exe.config
+D:\New folder\numer\numer\numer\bin\Release\random.exe
+D:\New folder\numer\numer\numer\bin\Release\random.pdb
+D:\New folder\numer\numer\numer\bin\Release\ar\random.resources.dll
+D:\New folder\numer\numer\numer\obj\Release\ar\random.resources.dll
+D:\New folder\numer\numer\numer\obj\Release\random.exe
+D:\New folder\numer\numer\numer\obj\Release\random.pdb
+C:\Users\omar\Desktop\numer\numer\numer\bin\Release\random.exe.config
+C:\Users\omar\Desktop\numer\numer\numer\bin\Release\random.exe
+C:\Users\omar\Desktop\numer\numer\numer\bin\Release\random.pdb
+C:\Users\omar\Desktop\numer\numer\numer\bin\Release\ar\random.resources.dll
+C:\Users\omar\Desktop\numer\numer\numer\bin\Release\Discord.Net.Commands.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Release\Discord.Net.Core.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Release\Discord.Net.Interactions.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Release\Discord.Net.Rest.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Release\Discord.Net.Webhook.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Release\Discord.Net.WebSocket.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Release\DiscordRPC.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Release\Newtonsoft.Json.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Release\System.Buffers.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Release\System.Collections.Immutable.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Release\System.Interactive.Async.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Release\System.Linq.Async.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Release\System.Memory.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Release\System.Numerics.Vectors.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Release\System.Reactive.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\omar\Desktop\numer\numer\numer\bin\Release\System.ValueTuple.xml
+C:\Users\omar\Desktop\numer\numer\numer\obj\Release\numer.csproj.AssemblyReference.cache
+C:\Users\omar\Desktop\numer\numer\numer\obj\Release\numer.BP.resources
+C:\Users\omar\Desktop\numer\numer\numer\obj\Release\numer.Form2.resources
+C:\Users\omar\Desktop\numer\numer\numer\obj\Release\numer.Properties.Resources.resources
+C:\Users\omar\Desktop\numer\numer\numer\obj\Release\numer.BP.ar.resources
+C:\Users\omar\Desktop\numer\numer\numer\obj\Release\numer.csproj.GenerateResource.cache
+C:\Users\omar\Desktop\numer\numer\numer\obj\Release\numer.csproj.CoreCompileInputs.cache
+C:\Users\omar\Desktop\numer\numer\numer\obj\Release\numer.csproj.Fody.CopyLocal.cache
+C:\Users\omar\Desktop\numer\numer\numer\obj\Release\ar\random.resources.dll
+C:\Users\omar\Desktop\numer\numer\numer\obj\Release\numer.csproj.CopyComplete
+C:\Users\omar\Desktop\numer\numer\numer\obj\Release\random.exe
+C:\Users\omar\Desktop\numer\numer\numer\obj\Release\random.pdb
